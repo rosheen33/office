@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added through my loocal computer
+=======
+added from github
+>>>>>>> 987a1d7d22aacc4881893bdb3ae2a896cc2fa79f
